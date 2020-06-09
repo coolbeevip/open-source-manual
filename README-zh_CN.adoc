@@ -6,7 +6,7 @@
 
 link:src/docs/asciidoc/OpenSourceManual.adoc[OpenSourceManual.adoc] 是一个索引文件, 她包含其它章节文件。每个章节文件也可以包含其它 adoc 文件。
 
-您可以在https://asciidoctor.org/docs/asciidoc-writers-guide/[这里]找到编写AsciiDoc文档的指南。
+您可以在 https://asciidoctor.org/docs/asciidoc-writers-guide/[这里] 找到编写AsciiDoc文档的指南。
 
 ## 用法
 
